@@ -1,0 +1,23 @@
+filename:	sleep.hpp
+version: 	1.0.0
+funcount:	1
+structcount:	0
+created:      < 18/07/20
+created by:	https://github.com/Dolfost
+
+description:
+Hibernate programs for a specified period of time.
+
+usage:
+
+void sleep(const int secs), void sleep(const float secs), void sleep(const double secs);
+
+void return : 		has no return value,
+name :		 	sleep,
+aliases :		has no aliases,
+args :			sleep delay in seconds;
+
+ 
+links:
+  sourse:	https://github.com/Dolfost/sleep-cpp
+  license:	https://github.com/Dolfost/sleep-cpp/blob/main/COPYING
